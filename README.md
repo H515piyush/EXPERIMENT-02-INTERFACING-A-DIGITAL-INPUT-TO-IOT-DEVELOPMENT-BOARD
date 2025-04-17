@@ -144,7 +144,8 @@ void IRPAIR()
 ## OUTPUT
 ![431276780-be41c975-0c1f-46ef-8e1d-3bfda4c724c1](https://github.com/user-attachments/assets/7d56c283-5beb-4051-964a-91b5a3842e71)
 
-![Uploading 431276991-914078f5-7f20-462b-b5ed-886ac60c6364.png…]()
+![431276991-914078f5-7f20-462b-b5ed-886ac60c6364](https://github.com/user-attachments/assets/5184192b-1df5-4d47-8de6-38bfc67cd24a)
+
 
 ## Result
 
